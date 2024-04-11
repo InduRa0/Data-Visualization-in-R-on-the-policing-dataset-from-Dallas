@@ -1,0 +1,2 @@
+# Data-Visualization-in-R-on-the-policing-dataset-from-Dallas
+The Dallas Police Department (DPD) provided data on all police incidents that occurred within the city limits of Dallas, Texas during the year 2016. The data includes 1,224,675 observations and 22 variables. In this report, I will perform a full data visualization in R on the policing dataset from Dallas, Texas in 2016 using various techniques.
